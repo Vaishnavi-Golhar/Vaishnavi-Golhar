@@ -57,8 +57,6 @@ Jira, Confluence, ServiceNow
 ---
 
 ## 📫 Connect With Me
-
-**LinkedIn:** [Vaishnavi Golhar](https://www.linkedin.com/in/vaishnavigolhar/)  
 **GitHub:** [Vaishnavi-Golhar](https://github.com/Vaishnavi-Golhar)  
 **Email:** vaishnavigolhar05@gmail.com
 
